@@ -12,4 +12,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France and i'm portuguese.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> currently living France and i'm portuguese.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- - :zap: In my free time, I like to contribute to opensource projects and create my own.
