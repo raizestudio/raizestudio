@@ -41,4 +41,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   53 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
