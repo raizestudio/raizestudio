@@ -42,6 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### :fire: Last 7 days activity :
 <!--START_SECTION:waka-->
 
 ```txt
