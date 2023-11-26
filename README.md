@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" width="100"/>
+  <img src="https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif" width="256"/>
 </div>
 <div align="center">
   <h1>Socials</h1>
