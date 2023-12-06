@@ -48,8 +48,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 5 mins    ████████████████████████░   96.65 %
-Other    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+Python   3 hrs 17 mins   ████████████████████████░   96.66 %
+Other    4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
