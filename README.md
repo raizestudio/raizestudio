@@ -48,8 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   21 mins         ████████████████▒░░░░░░░░   65.66 %
-Git Config   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
