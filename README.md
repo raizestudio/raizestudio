@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   4 hrs 9 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
