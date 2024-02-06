@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-Python   4 hrs 9 mins    █████████████████████████   100.00 %
+Python   5 hrs           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
