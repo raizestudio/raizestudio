@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="[https://cdn.dribbble.com/users/6620596/screenshots/14792345/a-cat-gif.gif](https://media1.tenor.com/m/Cy_-gpMAPfUAAAAC/pianistchenle-sad-dog-crying.gif)" width="256"/>
+  <img src="https://media1.tenor.com/m/Cy_-gpMAPfUAAAAC/pianistchenle-sad-dog-crying.gif" width="256"/>
 </div>
 <div align="center">
   <h1>Socials</h1>
