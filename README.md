@@ -43,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-[![Raize Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=raizestudio)](https://github.com/raizestudio/github-readme-stats)
+[![Raize Studio's GitHub stats](https://github-readme-stats.vercel.app/api?username=raizestudio)](https://github.com/raizestudio)
 
 ---
 ### :fire: Last 7 days activity :
