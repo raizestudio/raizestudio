@@ -50,11 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-Python       6 hrs 35 mins   █████████████████▓░░░░░░░   70.38 %
-JavaScript   1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
-Bash         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-Gherkin      35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
-HTML         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
+Python       7 hrs 18 mins   █████████████████▓░░░░░░░   71.12 %
+JavaScript   1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+Bash         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Gherkin      35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+HTML         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
