@@ -50,11 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-Python       9 hrs 31 mins   ██████████████████████▒░░   89.90 %
-SCSS         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-HTML         20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Git Config   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Python       8 hrs 43 mins   █████████████████████▒░░░   84.74 %
+SCSS         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+YAML         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+TypeScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+Markdown     9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
