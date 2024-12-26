@@ -50,11 +50,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 1 min     █████████████████▒░░░░░░░   68.91 %
-YAML         39 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
-Python       37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Docker       11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+TypeScript   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
