@@ -50,11 +50,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js       22 hrs 8 mins   ██████████▓░░░░░░░░░░░░░░   42.62 %
-Python       17 hrs 35 mins  ████████▒░░░░░░░░░░░░░░░░   33.84 %
-TypeScript   5 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-JSON         1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-CSV          1 hr 9 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Vue.js       26 hrs 35 mins  ████████████░░░░░░░░░░░░░   47.56 %
+Python       13 hrs 48 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.69 %
+TypeScript   9 hrs 39 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+YAML         1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Makefile     1 hr 6 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
 ```
 
 <!--END_SECTION:waka-->
