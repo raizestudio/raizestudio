@@ -50,7 +50,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   4 mins          ████████████████████▓░░░░   82.26 %
+Vue.js       0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
+JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
