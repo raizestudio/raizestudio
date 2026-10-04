@@ -41,6 +41,14 @@ Cloud & Tools   →  AWS · Git
 
 ---
 
+## Featured Project — My Portfolio
+
+A browser-based macOS-inspired desktop built with Nuxt 4, Vue 3, Tailwind and Supabase, featuring a window manager, real-time iMessage-style chat, themes, i18n, and projects to display my skills.
+
+**[🌐 Live ](https://www.joelpinho.fr)** · **[💻 Source GitHub](https://github.com/raizestudio/my_portfolio)**
+
+---
+
 ## 🛠️ Languages & Technologies
 
 ### Languages
